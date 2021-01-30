@@ -1,0 +1,17 @@
+{
+  "name": "CordovaEscPosPlugin",
+  "version": "1.0.0",
+  "description": "Cordova plugin for esc pos",
+  "cordova": {
+    "id": "com.avi.escpos",
+    "platforms": [
+      "android"
+    ]
+  },
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-android"
+  ],
+  "author": "Abhisek Lamsal",
+  "license": "ISC"
+}
